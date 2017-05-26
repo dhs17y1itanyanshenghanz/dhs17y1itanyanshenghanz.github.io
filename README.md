@@ -13,7 +13,6 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>Here are the things I love to do the most : </p> 
 <ul>
 <li>Playing soccer</li>
-<a href="http://www.trailadventours.com/philippine-mountains/mt-pulag"> Climbed Mt. Pulag </a>
 <li>Playing games</li>
 <li>Reading </li>
 </ul>
